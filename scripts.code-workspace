@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "scripts"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "fonts"
+		},
+		{
+			"path": "styles"
+		}
+	]
+}
